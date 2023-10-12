@@ -35,7 +35,7 @@ compose.desktop {
         nativeDistributions {
             targetFormats(TargetFormat.Exe, TargetFormat.Msi)
             packageName = "shutdown"
-            packageVersion = "1.0.0"
+            packageVersion = "1.0.1"
         }
     }
 }
