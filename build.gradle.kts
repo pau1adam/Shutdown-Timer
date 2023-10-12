@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     kotlin("jvm") version "1.9.0"
-    id("org.jetbrains.compose") version "1.3.1"
+    id("org.jetbrains.compose") version "1.5.0"
 }
 
 group = "io.github.pau1adam"
